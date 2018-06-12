@@ -1,0 +1,3 @@
+Oswald - titles
+Roboto Condensed + Roboto Condensed Bold - links
+Roboto Condensed - text
